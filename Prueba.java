@@ -15,7 +15,7 @@ public class Prueba {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("esto es una prueba de mierda para ver si compila esta mierda");
+        System.out.println("esto es una prueba de mierda para ver si compila esta mierda Pero ahora con Github");
     }
     
 }
